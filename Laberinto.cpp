@@ -1,4 +1,10 @@
-
+/*  INFB8090 Computacion Paralela y Distribuida
+    Seccion 411
+    Integrantes: 
+    - Gustavo Oyarce P.
+    - Nicolas Jara C.
+    - Tomas Lillo S.
+*/
 #include <iostream>
 #include <fstream>
 #include <vector>
